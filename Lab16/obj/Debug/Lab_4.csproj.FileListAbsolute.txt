@@ -1,0 +1,29 @@
+C:\MyFiles\Study\Simulation Models\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+C:\MyFiles\Study\Simulation Models\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\MyFiles\Study\Simulation Models\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\MyFiles\Study\Simulation Models\Lab_4\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+C:\MyFiles\Study\Simulation Models\Lab_4\Lab_4\obj\Debug\Lab_4.Form1.resources
+C:\MyFiles\Study\Simulation Models\Lab_4\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\MyFiles\Study\Simulation Models\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+C:\MyFiles\Study\Simulation Models\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+C:\MyFiles\Study\Simulation Models\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+C:\MyFiles\Study\Simulation Models\Lab16\Lab_4\bin\Debug\Lab_4.exe.config
+C:\MyFiles\Study\Simulation Models\Lab16\Lab_4\bin\Debug\Lab_4.exe
+C:\MyFiles\Study\Simulation Models\Lab16\Lab_4\bin\Debug\Lab_4.pdb
+C:\MyFiles\Study\Simulation Models\Lab16\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+C:\MyFiles\Study\Simulation Models\Lab16\Lab_4\obj\Debug\Lab_4.Form1.resources
+C:\MyFiles\Study\Simulation Models\Lab16\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\MyFiles\Study\Simulation Models\Lab16\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+C:\MyFiles\Study\Simulation Models\Lab16\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+C:\MyFiles\Study\Simulation Models\Lab16\Lab_4\obj\Debug\Lab_4.exe
+C:\MyFiles\Study\Simulation Models\Lab16\Lab_4\obj\Debug\Lab_4.pdb
+C:\Users\appac\Desktop\Lab16\Lab_4\bin\Debug\Lab_4.exe.config
+C:\Users\appac\Desktop\Lab16\Lab_4\bin\Debug\Lab_4.exe
+C:\Users\appac\Desktop\Lab16\Lab_4\bin\Debug\Lab_4.pdb
+C:\Users\appac\Desktop\Lab16\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+C:\Users\appac\Desktop\Lab16\Lab_4\obj\Debug\Lab_4.Form1.resources
+C:\Users\appac\Desktop\Lab16\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\appac\Desktop\Lab16\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+C:\Users\appac\Desktop\Lab16\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\appac\Desktop\Lab16\Lab_4\obj\Debug\Lab_4.exe
+C:\Users\appac\Desktop\Lab16\Lab_4\obj\Debug\Lab_4.pdb
